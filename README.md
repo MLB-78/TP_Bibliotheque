@@ -1,10 +1,8 @@
 # TP Bibliothèque
-
-## Présentation du Projet
-
 Dans ce projet réalisé en C# avec ADO.NET, j'ai développé une bibliothèque qui offre des fonctionnalités CRUD 
 (Create, Read, Update, Delete) pour interagir avec une base de données. 
-<br>
+
+## Présentation du Projet
 ![Texte alternatif](ADO/a1.png)
 <br>
 Cette bibliothèque permet aux utilisateurs d'effectuer des opérations basiques sur des données stockées dans une base de données relationnelle.
